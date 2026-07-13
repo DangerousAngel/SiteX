@@ -40,6 +40,9 @@ cd sitex
 ```bash
 node server.js
 ```
+### 3. Open your browser
+Visit **`http://localhost:3000`** and start exploring!
+
 ## Structure
 ```
 sitex/
